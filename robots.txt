@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://emberkitegames.github.io/sitemap.xml

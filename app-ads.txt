@@ -1,0 +1,6 @@
+# app-ads.txt for Emberkite Games
+# After your first game is live on Google Play, AdMob shows you one line to put here.
+# It looks like this (with your own pub- number):
+# google.com, pub-0000000000000000, DIRECT, f08c47fec0942fa0
+# Delete the # at the start of that line and replace the number with yours.
+# One line covers every game in your AdMob account.
